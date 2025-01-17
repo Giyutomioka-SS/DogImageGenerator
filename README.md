@@ -15,7 +15,7 @@ Download the APK from this link: https://i.diawi.com/DFW9rg
 ## **Screenshot's 📸**
 
 <p align="center">
-  <img src="https://i.postimg.cc/HLMZ60FC/Home-Screen.jpg" width="300">
-  <img src="https://i.postimg.cc/4NFWZFgg/Generate-Screen.jpg" width="300">
-  <img src="https://i.postimg.cc/xdL5vfbf/Saved-Image-Screen.jpg" width="300">
+  <img src="https://i.postimg.cc/HLMZ60FC/Home-Screen.jpg" width="200">
+  <img src="https://i.postimg.cc/4NFWZFgg/Generate-Screen.jpg" width="200">
+  <img src="https://i.postimg.cc/xdL5vfbf/Saved-Image-Screen.jpg" width="200">
 </p>
